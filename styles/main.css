@@ -10,7 +10,7 @@
     width: 58px;
     height: 58px;
     border: 1px solid black;
-    /* color: white; */
+    color: white;
     
 }
 .duck{
@@ -20,4 +20,8 @@
     background-repeat: no-repeat;
 
 }
+#score-display{
+    color:green;
+    font-size: x-large;
 
+}
